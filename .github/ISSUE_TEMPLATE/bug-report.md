@@ -24,9 +24,9 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Information (please complete the following information):**
- - Minecraft Version: [e.g. 1.19]
- - CraftOS Version: [e.g. 1.101.0]
- - Phoenix Version: [e.g. public alpha] 
+ - Minecraft/CraftOS-PC Version: [e.g. 1.19, v2.7]
+ - ComputerCraft Version: [e.g. 1.101.0]
+ - Phoenix Version: [e.g. 0.0.1] 
 
 **Additional context**
 Add any other context about the problem here.
